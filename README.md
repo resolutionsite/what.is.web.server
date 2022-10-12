@@ -1,6 +1,6 @@
 # What is Web Server?
 
-[![what is web server](redd.png)](https://github.com/resolutionsite/what.is.web.server)
+[![what is web server](redd.png)](https://icncomputer.com/what-is-web-server/)
 
 
 
